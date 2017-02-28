@@ -6,3 +6,6 @@ c:\users\forma1701\documents\visual studio 2015\Projects\ConsoleMenuComplete\Con
 c:\users\forma1701\documents\visual studio 2015\Projects\ConsoleMenuComplete\ConsoleMenuSimple\obj\Debug\ConsoleMenuSimple.csprojResolveAssemblyReference.cache
 c:\users\forma1701\documents\visual studio 2015\Projects\ConsoleMenuComplete\ConsoleMenuSimple\obj\Debug\ConsoleMenuSimple.exe
 c:\users\forma1701\documents\visual studio 2015\Projects\ConsoleMenuComplete\ConsoleMenuSimple\obj\Debug\ConsoleMenuSimple.pdb
+P:\ProjetsGit\ConsoleMenuComplete\ConsoleMenuSimple\bin\Debug\ConsoleMenuSimple.exe.config
+P:\ProjetsGit\ConsoleMenuComplete\ConsoleMenuSimple\obj\Debug\ConsoleMenuSimple.exe
+P:\ProjetsGit\ConsoleMenuComplete\ConsoleMenuSimple\obj\Debug\ConsoleMenuSimple.pdb
