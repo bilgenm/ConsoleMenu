@@ -1,0 +1,5 @@
+c:\users\forma1701\documents\visual studio 2015\Projects\ConsoleMenuComplete\ConsoleMenu\bin\Debug\ConsoleMenu.dll
+c:\users\forma1701\documents\visual studio 2015\Projects\ConsoleMenuComplete\ConsoleMenu\bin\Debug\ConsoleMenu.pdb
+c:\users\forma1701\documents\visual studio 2015\Projects\ConsoleMenuComplete\ConsoleMenu\obj\Debug\ConsoleMenu.csprojResolveAssemblyReference.cache
+c:\users\forma1701\documents\visual studio 2015\Projects\ConsoleMenuComplete\ConsoleMenu\obj\Debug\ConsoleMenu.dll
+c:\users\forma1701\documents\visual studio 2015\Projects\ConsoleMenuComplete\ConsoleMenu\obj\Debug\ConsoleMenu.pdb
